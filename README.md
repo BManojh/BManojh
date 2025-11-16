@@ -1,72 +1,108 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4fa3f7;">Manojh B</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm MANOJH B</h1>
+<h3 align="center">🚀 Passionate Java Developer | Full-Stack Enthusiast | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bmanojh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bmanojh&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bmanojh?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Tech-Blogger-blue" alt="Blogger" />
 </p>
 
 ---
 
-## 🔥 About Me  
-- 🔭 Currently working on **Data Download Duplicate Alert System (DDAS)**  
-- 🌱 Learning **Data Analytics**  
-- 💬 Ask me about **React, C, MongoDB, Node.js**  
-- 📫 Reach me at **manojhb7640@gmail.com**  
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **[Data Download Duplicate Alert System (DDAS)](https://github.com/BManojh/Duplicate-detection)**
+- 🎯 Goal: **Become a top-notch Security-focused Full Stack Developer**
+- 🌱 I’m currently learning **Cyber Security**
+- 💬 Ask me about **Java, React, MongoDB, or System Design**
+- 📫 Reach me at: **manojhb7640@gmail.com**
+- 🧠 Fun fact: *Debugging is like being the detective in a crime movie where you are also the murderer.*
 
 ---
 
-## 🌐 Connect With Me  
+### 🔗 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/manojh-balaji-8b3b0a291/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <a href="https://linkedin.com/in/manojh-balaji-8b3b0a291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-
-  <a href="https://leetcode.com/u/manojhb125/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  <a href="https://instagram.com/rocky_manojhb" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/manojhb_23cse" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/manojhb125" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="left">
+### 💼 Tech Stack
 
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+#### Web & UI Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+#### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmanojh&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmanojh&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bmanojh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmanojh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmanojh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+### 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmanojh&theme=tokyonight" alt="Github Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bmanojh&theme=dracula&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-## 🚀 Thanks for Visiting!  
-⭐ **Don't forget to star the repositories you like!**
+### 📌 Notable Projects
+
+- 🎯 **[DDAS - Data Download Duplicate Alert System](https://github.com/BManojh/Duplicate-detection)**  
+  A smart Chrome Extension that warns users if a downloaded file already exists to save space and avoid redundancy.
+
+---
+
+### 📢 Let's Collaborate!
+
+Got a project in mind? Want to team up on something exciting? Feel free to connect — I’m open to internships, collaborations, and open-source contributions!
+
+---
