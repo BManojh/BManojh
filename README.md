@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANOJH B</h1>
-<h3 align="center">🚀 Passionate Java Developer | Full-Stack Enthusiast | Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full-Stack Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bmanojh&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
