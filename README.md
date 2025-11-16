@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **[Data Download Duplicate Alert System (DDAS)](https://github.com/BManojh/Duplicate-detection)**
 - 🎯 Goal: **Become a top-notch Security-focused Full Stack Developer**
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Data Analytics**
 - 💬 Ask me about **Java, React, MongoDB, or System Design**
 - 📫 Reach me at: **manojhb7640@gmail.com**
 - 🧠 Fun fact: *Debugging is like being the detective in a crime movie where you are also the murderer.*
